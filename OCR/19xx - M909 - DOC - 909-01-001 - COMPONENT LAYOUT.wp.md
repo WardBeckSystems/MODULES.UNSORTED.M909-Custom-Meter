@@ -582,7 +582,7 @@ MW94001/909CUSTM.WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M909/SCHEMATICS/19xx - M909 - DOC - 909-01-001 - COMPONENT LAYOUT.wp",
+ "file": "Modules/UNSORTED/M909/MANUALS/19xx - M909 - DOC - 909-01-001 - COMPONENT LAYOUT.wp",
  "sha256": "810ba9a2e7b1af2e3f658284dbc1594249ac30ab49b1a068bf4537d5d1ec6623",
  "kind": "doc",
  "models": [
