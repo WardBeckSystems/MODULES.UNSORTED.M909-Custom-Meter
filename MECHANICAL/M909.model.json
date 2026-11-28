@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M909",
- "repo": "MODULES.UNSORTED.M909-Custom-Meter",
+ "repo": "MODULES.RENAISSANCE.M909-Custom-Meter",
  "title": "Custom Meter",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
