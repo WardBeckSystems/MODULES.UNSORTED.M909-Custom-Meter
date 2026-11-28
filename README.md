@@ -1,6 +1,6 @@
 # M909 Custom Meter · Renaissance
 
-Ward-Beck Systems M909, 1994|27. Wiki page: [M909 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M909.html)
+Ward-Beck Systems M909, 1994|27. Wiki page: [M909 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M909-Custom-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
