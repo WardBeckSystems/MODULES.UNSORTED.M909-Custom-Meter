@@ -55,6 +55,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1A8CR2ec7-5smw4Y61Ziq0DoSerjk44Qo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1A8CR2ec7-5smw4Y61Ziq0DoSerjk44Qo" width="240" alt="1996 - M909 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM.jpg"></a><br><sub>1996|29 · DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM · <a href="MECHANICAL/1996%20-%20M909%20-%20DOC%20-%2096002-04-004%20-%20CFNY%20ENG%20MASTER%20CONTROL%20ROOM%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M909.stl`](MECHANICAL/M909.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M909)
+
+- **Size:** 38 × 410 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 16.2" high x 6.6" deep. (38mm x 410mm x 168mm).)
+- **From the drawing:** 14 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M909 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M909.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
