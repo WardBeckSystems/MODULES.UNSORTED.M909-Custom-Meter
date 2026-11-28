@@ -1,16 +1,15 @@
-# M909 Custom Meter · Unsorted
+# M909 Custom Meter · Renaissance
 
 Ward-Beck Systems M909, 1994|27. Wiki page: [M909 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M909.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 9 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -89,7 +88,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1994 - M909 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR.kicad_sch](KICAD/1994%20-%20M909%20-%20DOC%20-%20940376-01-001%20-%20STUDIO%20MONITOR%20LINE%20SELECTOR.kicad_sch)
 - [1994 - M909 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE.kicad_sch](KICAD/1994%20-%20M909%20-%20DOC%20-%20940446-01-001%20-%20CALLY%20INTEGRATED%20INTO%20THE%20CONSOLE.kicad_sch)
 - [M909.kicad_sym](KICAD/M909.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
